@@ -1,8 +1,25 @@
-## hola  
+# **Descripción sobre mi**
+Soy un estudiante de secundaria, pienso estudiar ingenieria informatica una vez termine el secundario
+
 
 ---
-hola
+
+#**Mis gustos**
+
+*  La programacion
+*  Los juegos 
+*  La musica
+*  El café
+*  Dormir
+
 ---
+
+#**Mis expectativas**
+
+
+1.   Terminar el secundario sin llevarme materias
+2.   Poder recibirme
+
 
 <!--
 **mgt-1-0/mgt-1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
