@@ -25,7 +25,3 @@ Soy un estudiante de secundaria, pienso estudiar ingenieria informatica una vez 
 #**Mi ig**
 
 [Instagram](https://www.instagram.com/tapi_ta10)
-
----
-
-![papitas](https://images.app.goo.gl/DJDggDNxELhPbF1n7)
