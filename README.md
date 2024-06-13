@@ -25,3 +25,7 @@ Soy un estudiante de secundaria, pienso estudiar ingenieria informatica una vez 
 #**Mi ig**
 
 [Instagram](https://www.instagram.com/tapi_ta10)
+
+---
+
+![facha](https://img-huffingtonpost-com.cdn.ampproject.org/i/s/img.huffingtonpost.com/asset/565cb0201b00009c0029ec78.jpeg)
